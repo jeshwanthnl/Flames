@@ -22,4 +22,4 @@ while len(flames) > 1:
 result = {"F" : "Friends", "L" : "Love", "A" : "Affection",
             "M" : "Marriage", "E" : "Enemy"}
 
-print(result[flames[0]])
+print("relationship between boy and girl is :",result[flames[0]])
